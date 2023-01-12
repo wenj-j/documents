@@ -1,0 +1,31 @@
+23.01.03
+  - 오피스 설치
+  - 자바 JDK 1.8 설치 > 환경 변수 설정
+  - 오라클 10버전 설치 > Oracle home 설정
+
+23.01.04 ~ 01.06
+  - DB툴 토드 설치(DB연결(Oracle home 설정된 곳 연결, DB서버 IP주소 포트 연결))
+  - 스프링 부트 설치 > 인코딩 설정
+                    > 환경에 맞추어 EUC-KR 또는 UTF-8로 설정
+  - 깃 데스크톱 설치 > 공유한 깃 허브 주소 들어가기
+                    > 해당 주소에 알려준 프로젝트 폴더 확인
+                    > 해당 프로젝트 code 클릭후 주소 HTTP로 복사
+                    > 깃 허브 데스크톱에서 클론 기능으로 복사된 주소 연결 후 기존 스프링 workSpace 외 경로로 지정
+                    > 이후 스프링 부트에서 file import후 gradle로 클론 지정된 프로젝트 import
+                    > configure > convert to gradle
+                    > gradle > refresh gradle
+                    > boot dashboard > 프로젝트명
+                    > 우측 클릭 메뉴 > open config > profile: local > debug
+23.01.09 ~ 01.10
+  - SVN 설정 > help > eclipse market place > subclipse 설치
+            > SVN Repositories open
+            > 이후 Repostiories 에서 가져올 SVN 프로젝트 우측 클릭해서 check out함
+            > SVN 연결 끊기 > 해당 프로젝ㄴ트 우클릭 후 > Team > Disconnect
+  - jasper soft studio(출력물 DB툴) 설치
+  - Report Designer(출력물 DB툴) 설치
+
+23.01.11 ~ 01.12
+  - jasper soft studio 툴을 이용하여 DB연동시켜 출력물 결과내기
+  - Report Designer를 이용하여 이전 프로젝트 DB쿼리 조회함
+  - 이전 프로젝트 DB와 As-Is 프로젝트(wils프로젝트)의 DB를 비교하여 To-Be 프로젝트 DB에 삽입
+  - DB 입력 할 때 jrxml파일에 source탭에서 DB를 입력함
