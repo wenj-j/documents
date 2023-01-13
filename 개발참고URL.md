@@ -16,3 +16,11 @@
   > jasper expression Editor
     - 자바 함수를 가져다 쓸 수 있고 비슷한 기능을 가진 함수가 있다
       - ex) new StringBuffer($F{DB필드명}).reverse().toString()
+  
+  > jasper 그룹 참고
+    - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=minis24&logNo=80097850321
+      - ex) 필드를 그룹으로 만들어서 유용하게 쓸 수 있음
+
+  > jasper variable 참고
+    - https://stackoverflow.com/questions/13550514/how-to-sum-all-values-in-a-column-in-jaspersoft-ireport-designer
+    - ex) 하나의 필드를 참조해서 변수로 따로 만들고 기능을 추가함
