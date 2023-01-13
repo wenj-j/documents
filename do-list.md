@@ -29,3 +29,8 @@
   - Report Designer를 이용하여 이전 프로젝트 DB쿼리 조회함
   - 이전 프로젝트 DB와 As-Is 프로젝트(wils프로젝트)의 DB를 비교하여 To-Be 프로젝트 DB에 삽입
   - DB 입력 할 때 jrxml파일에 source탭에서 DB를 입력함
+
+23.01.13
+  - 화주별 Location별 재고현황 3개의 프린트 기능 db로 출력물 만들기
+  - RD에는 64가 있지만 logis2gether에는 없음 물어볼 것 -> 61, 64 둘다 화물관리 대장
+  - bnp에는 있지만 logistogether에 없을 경우 비슷한 양식이나 따로 추가할 것
