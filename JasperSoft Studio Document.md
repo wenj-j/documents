@@ -1,6 +1,6 @@
 > 데이터 베이스 설정
 
->  > 1. JasperSoft Studio 실행화면(처음 킬시 Get Start 문구나 다른 문구화면이 먼저뜸 Get Start를 누를 것)
+  > 1. JasperSoft Studio 실행화면(처음 킬시 Get Start 문구나 다른 문구화면이 먼저뜸 Get Start를 누를 것)
   ![캡처](https://user-images.githubusercontent.com/121803110/212691952-75aceae3-0877-46b5-aa46-932904139718.PNG)
 
   2. 데이터어뎁터를 만든다. - create Data adapter
