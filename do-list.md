@@ -20,7 +20,7 @@
   - SVN 설정 > help > eclipse market place > subclipse 설치
             > SVN Repositories open
             > 이후 Repostiories 에서 가져올 SVN 프로젝트 우측 클릭해서 check out함
-            > SVN 연결 끊기 > 해당 프로젝ㄴ트 우클릭 후 > Team > Disconnect
+            > SVN 연결 끊기 > 해당 프로젝트 우클릭 후 > Team > Disconnect
   - jasper soft studio(출력물 DB툴) 설치
   - Report Designer(출력물 DB툴) 설치
 
