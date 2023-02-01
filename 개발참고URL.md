@@ -29,5 +29,5 @@
   
   > mybatis 기능 관련 설명
     - https://dev-overload.tistory.com/27
-      https://java119.tistory.com/42
-      http://www.gisdeveloper.co.kr/?p=6111 
+    - https://java119.tistory.com/42
+    - http://www.gisdeveloper.co.kr/?p=6111 
