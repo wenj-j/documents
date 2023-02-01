@@ -24,3 +24,10 @@
   > jasper variable 참고
     - https://stackoverflow.com/questions/13550514/how-to-sum-all-values-in-a-column-in-jaspersoft-ireport-designer
     - ex) 하나의 필드를 참조해서 변수로 따로 만들고 기능을 추가함
+
+> spring- boot
+  
+  > mybatis 기능 관련 설명
+    - https://dev-overload.tistory.com/27
+      https://java119.tistory.com/42
+      http://www.gisdeveloper.co.kr/?p=6111 
