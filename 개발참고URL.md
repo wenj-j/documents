@@ -28,6 +28,8 @@
 > ## spring- boot
   
   > mybatis 기능 관련 설명   
-    - [mybatis 개념]https://dev-overload.tistory.com/27
-    - [if, choose,..등 문법]https://java119.tistory.com/42
-    - [mybatis의 select, insert, delete]http://www.gisdeveloper.co.kr/?p=6111 
+    [mybatis 개념]https://dev-overload.tistory.com/27
+    [if, choose,..등 문법]https://java119.tistory.com/42
+    [mybatis의 select, insert, delete]http://www.gisdeveloper.co.kr/?p=6111 
+    [#{}과 ${}차이]https://logical-code.tistory.com/25
+    [select 알짜배기]https://aljjabaegi.tistory.com/457
