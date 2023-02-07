@@ -24,6 +24,8 @@
   > jasper variable 참고
     - https://stackoverflow.com/questions/13550514/how-to-sum-all-values-in-a-column-in-jaspersoft-ireport-designer  
     - ex) 하나의 필드를 참조해서 변수로 따로 만들고 기능을 추가함
+  > jasper $X{} 참고
+    - https://milangadajaspersoft.blogspot.com/2018/11/x-parameter-in-jasper.html
 
 > ## spring- boot
   
