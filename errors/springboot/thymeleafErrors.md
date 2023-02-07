@@ -1,4 +1,4 @@
-template might not exist or might not be accessible by any of the configured Template Resolvers
+1. Error resolving template, template might not exist or might not be accessible by any of the configured Template Resolvers
 - 경로 관련 오류다.
   - 타임리프 관련함수를 썼을 때 페이지 이름 철자가 틀렸거나 controller에서 경로를 부르는데 오류가 생길수 있다.
 > 해결방법
