@@ -8,4 +8,7 @@
    1. Styles: report의 요소에 Text, Patter Expression, 글자크기등의 스타일의 객체를 만드는 곳
    2. Parameters: report의 preview에 넣을 값 또는 사용자가 java에서 넘겨주는 값을 정의하는 곳
    3. Fields: report의 sql쿼리결과의 필드값들을 정의하는 곳
-   4. Sort Fields: 
+   4. Sort Fields: report field요소를 정렬해주는 곳(기본값은 오름차순 정렬(ASC))  ![image](https://user-images.githubusercontent.com/121803110/222340929-6550e50f-5e46-491b-a86b-50386887226b.png)
+     - 참고한 URL: https://stackoverflow.com/questions/28349368/how-to-sort-fields-in-jasper-report
+
+   5. Variables: 
