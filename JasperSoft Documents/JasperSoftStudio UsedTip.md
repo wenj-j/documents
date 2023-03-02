@@ -5,7 +5,7 @@
   탭(Design, Source,Preview)으로 구성되어있다.
   
   - Report(Outline) 구성요소
-   - Styles: report의 요소에 Text, Patter Expression, 글자크기등의 스타일의 객체를 만드는 곳
-   - Parameters: report의 preview에 넣을 값 또는 사용자가 java에서 넘겨주는 값을 정의하는 곳
-   - Fields: report의 sql쿼리결과의 필드값들을 정의하는 곳
-   - Sort Fields: 
+   1. Styles: report의 요소에 Text, Patter Expression, 글자크기등의 스타일의 객체를 만드는 곳
+   2. Parameters: report의 preview에 넣을 값 또는 사용자가 java에서 넘겨주는 값을 정의하는 곳
+   3. Fields: report의 sql쿼리결과의 필드값들을 정의하는 곳
+   4. Sort Fields: 
