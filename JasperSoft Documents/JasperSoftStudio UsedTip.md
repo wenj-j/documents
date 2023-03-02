@@ -13,4 +13,5 @@
      -  ![image](https://user-images.githubusercontent.com/121803110/222341831-533fb546-6e86-4733-816b-75cd60ce4328.png)
      - 참고한 URL: https://stackoverflow.com/questions/28349368/how-to-sort-fields-in-jasper-report
 
-   5. Variables: 
+   5. Variables: 컬럼별로 합계, 개수 또는 field텍스트 값에 넣을 변수를 정의하는 곳
+   6. Scriptlets: 
