@@ -10,7 +10,7 @@
    2. Parameters: report의 preview에 넣을 값 또는 사용자가 java에서 넘겨주는 값을 정의하는 곳
    3. Fields: report의 sql쿼리결과의 필드값들을 정의하는 곳
    4. Sort Fields: report field, Variables요소를 정렬해주는 곳(기본값은 오름차순 정렬(ASC))
-     -  ![image](https://user-images.githubusercontent.com/121803110/222340929-6550e50f-5e46-491b-a86b-50386887226b.png)
+     -  ![image](https://user-images.githubusercontent.com/121803110/222341831-533fb546-6e86-4733-816b-75cd60ce4328.png)
      - 참고한 URL: https://stackoverflow.com/questions/28349368/how-to-sort-fields-in-jasper-report
 
    5. Variables: 
