@@ -1,3 +1,8 @@
-1.
-2.
-3.
+- 참고한 URL:https://velog.io/@light/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8SpringBoot-1.%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+- https://spring.io/tools 에서 운영체제에 맞는 STS4를 선택하여 C:/develp(저장하려는 경로)에 저장합니다.
+- 다운로드 받은 파일을 더블클릭해 압축을 해제합니다.
+- SpringToolSuite4.exe를 실행합니다.
+- 압축을 푼 폴더에서 SpringToolSuite4.ini을 메모장으로 실행합니다.
+- 본인의 jdk/bin/javaw.exe 경로(본인이 설치했었던 jdk경로)와 JavaVersion을 수정하고, Xms1024m도 변경하고 저장합니다
+- workspace 경로를 설정하고 Launch를 누릅니다.
+- 실행 확인.
