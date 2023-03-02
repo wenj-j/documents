@@ -1,6 +1,5 @@
 > JasperSoftStudio Expression 사용하는 방법(방법 추가중)
-- jasper report 구성요소
-  - ![image](https://user-images.githubusercontent.com/121803110/222336897-c562f950-a320-486d-80cb-577db8bd0864.png)
+- jasper report 구성요소  ![image](https://user-images.githubusercontent.com/121803110/222336897-c562f950-a320-486d-80cb-577db8bd0864.png)
   - report구성요소에는 Styles, Parameters, Fields, Sort Fields, Variables, Scriptlets, Title, Column Header, Detail(1~n)
   , Column Footer, Page Footer, Last Page Footer, Summary, Background, main report화면, palette, composite elements, properties
   탭(Design, Source,Preview)으로 구성되어있다.
