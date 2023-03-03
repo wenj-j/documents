@@ -28,6 +28,8 @@
   > jasper $X{} 참고
     - https://milangadajaspersoft.blogspot.com/2018/11/x-parameter-in-jasper.html
 
+  > jasper report pdf문서
+    - https://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf
 > ## spring- boot
   
   - mybatis 기능 관련 설명   
