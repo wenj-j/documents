@@ -31,6 +31,9 @@
   > jasper report pdf문서및 영상
     - https://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf
     - https://www.youtube.com/@JaspersoftBISuite/videos
+  
+  > jasper report currentPage, TotalPage 참고한URL
+    - https://stackoverflow.com/questions/29669540/jasper-reports-center-current-page-number-and-total-page-number
 > ## spring- boot
   
   - mybatis 기능 관련 설명   
