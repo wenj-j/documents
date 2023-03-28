@@ -34,7 +34,7 @@
   
   > jasper report currentPage, TotalPage 참고한URL  
     - https://stackoverflow.com/questions/29669540/jasper-reports-center-current-page-number-and-total-page-number
-> ## spring- boot
+> ## spring boot
   
   - mybatis 기능 관련 설명   
     [mybatis 개념]https://dev-overload.tistory.com/27  
@@ -42,3 +42,6 @@
     [mybatis의 select, insert, delete]http://www.gisdeveloper.co.kr/?p=6111  
     [#{}과 ${}차이]https://logical-code.tistory.com/25  
     [select 알짜배기]https://aljjabaegi.tistory.com/457
+    
+> ##  JSON DATA 샘플 사이트
+  - https://jsonplaceholder.typicode.com
