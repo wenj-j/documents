@@ -36,7 +36,7 @@
 
 jasper 각 메인 페이지 넘버링 계산
 ```
-tree 생성 로직
+> tree 생성 로직
 ```
 function funcTreeObject() {
     let depthIdx = 0
