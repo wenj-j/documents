@@ -1,3 +1,6 @@
+//시간 비교
+console.log(compare("10:31","17:11"));
+
 function compare(time1,time2) {
     let comp1 = time1.split(":");
     let comp2 = time2.split(":");
