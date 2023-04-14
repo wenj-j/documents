@@ -1,10 +1,6 @@
-
-
-//버블 정렬 (분에 숫자를 더해 각 시각에 따른 정렬)
+//버블 정렬과 시간비교로 푸는 문제
+//code start
 let line = [["one","12:00","40"],["two","12:30","50"],["three","11:10","20"]];
-
-
-
 console.log(sol(line));
 
 function sol(line) {
@@ -62,7 +58,7 @@ function compareTime(line1, line2) {
     }
     return false;
 }
-//bubble sort(버블 정렬)
+
 function sort(line){
     let swap;
     for(let i=0;i<line.length;i++){
@@ -90,6 +86,22 @@ function compareMin(line1,line2) {
         return false
     }
 }
+//code end
+
+//버블 정렬
+function sort(line){
+    let swap;
+    for(let i=0;i<line.length;i++){
+        for(let j=0;j<line.length-1;j++){
+            if(!compareMin(line[j],line[j+1])){
+                swap = line[j];
+                line[j] = line[j+1];
+                line[j+1] = swap;
+            }
+        }
+    }    
+}
+
 //시간 비교
 console.log(compare("10:31","17:11"));
 
