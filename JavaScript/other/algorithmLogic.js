@@ -13,6 +13,7 @@ function sort(line){
         }
     }    
 }
+
 //시간 비교
 console.log(compare("10:31","17:11"));
 
