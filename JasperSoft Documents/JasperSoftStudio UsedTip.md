@@ -32,3 +32,6 @@
   - jasper 파일을 여는 java파일에 가서, main report와 subreport경로를 같게 한 뒤, main경로를 가지고 subreport이름을 파라미터로 받아서 jasper 파라미터로
   넘기는 값에 집어 넣는다 map타입으로 거의 되어있으므로, map에다 jasper subreport 파라미터 이름과 경로값을 집어넣는다.
   - jasper출력물에서는 java에서 넘긴 파라미터값으로 subreport expression에 값을 넣는다.(jasper에서 받는 파라미터값으로)
+  
+> JasperSoftStudio group화 관련 URL
+  - https://www.youtube.com/watch?v=oBHFHoKOTj4
