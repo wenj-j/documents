@@ -35,3 +35,7 @@
   
 > JasperSoftStudio group화 관련 URL
   - https://www.youtube.com/watch?v=oBHFHoKOTj4
+
+> JasperSoftStudio subreport edit parameter 설정
+  - subreport클릭 후 subreport 탭에서 edit parameter를 통해 main report에서 subreport로 필드값이든 파라미터값이든 variable이든 넘길 수 있다.
+
