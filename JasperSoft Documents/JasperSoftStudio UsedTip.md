@@ -39,3 +39,6 @@
 > JasperSoftStudio subreport edit parameter 설정
   - subreport클릭 후 subreport 탭에서 edit parameter를 통해 main report에서 subreport로 필드값이든 파라미터값이든 variable이든 넘길 수 있다.
 
+> JasperSoftStudio pattern 설정
+  - 각 변수 타입에 맞게 pattern을 지정할 수 있다. ex) int,float등은 Number pattern에서 Use 1000 separator항목을 체크하면 1000단위및 소수점단위의 패턴을 형성
+
