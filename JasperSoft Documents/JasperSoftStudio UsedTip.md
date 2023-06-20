@@ -1,5 +1,7 @@
 > JasperSoftStudio Expression 사용하는 방법
-- jasper report 구성요소  ![image](https://user-images.githubusercontent.com/121803110/222336897-c562f950-a320-486d-80cb-577db8bd0864.png)
+  ![image](https://github.com/wenj-j/documents/assets/121803110/778ce335-673e-4824-a90e-1ea6e9000fee)
+
+> jasper report 구성요소  ![image](https://user-images.githubusercontent.com/121803110/222336897-c562f950-a320-486d-80cb-577db8bd0864.png)
   - report구성요소에는 Styles, Parameters, Fields, Sort Fields, Variables, Scriptlets, Title, Column Header, Detail(1~n)
   , Column Footer, Page Footer, Last Page Footer, Summary, Background, main report화면, palette, composite elements, properties
   탭(Design, Source,Preview)으로 구성되어있다.
@@ -37,4 +39,3 @@
 
 > JasperSoftStudio pattern 설정
   - 각 변수 타입에 맞게 pattern을 지정할 수 있다. ex) int,float등은 Number pattern에서 Use 1000 separator항목을 체크하면 1000단위및 소수점단위의 패턴을 형성
-
