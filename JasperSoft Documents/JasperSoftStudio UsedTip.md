@@ -1,7 +1,7 @@
 > JasperSoftStudio Expression 사용하는 방법
   ![image](https://github.com/wenj-j/documents/assets/121803110/99a7c39a-da7e-4753-b561-7a5591f2dd94)
   ![image](https://github.com/wenj-j/documents/assets/121803110/778ce335-673e-4824-a90e-1ea6e9000fee)
-  - 오른쪽 메뉴는 해당필드의 타입에 따른 메소드들이 있다, 보여지는 것은 string과 관련된 메소드
+  - 오른쪽 메뉴는 필드의 타입에 따른 메소드들이 있다, 보여지는 것은 string과 관련된 메소드
   - 왼쪽 메뉴는 jasper 현재 프로젝트의 요소를 볼 수 있다.
 > jasper report 구성요소  ![image](https://user-images.githubusercontent.com/121803110/222336897-c562f950-a320-486d-80cb-577db8bd0864.png)
   - report구성요소에는 Styles, Parameters, Fields, Sort Fields, Variables, Scriptlets, Title, Column Header, Detail(1~n)
